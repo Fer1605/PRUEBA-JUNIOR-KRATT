@@ -2,6 +2,10 @@
 
 Este proyecto es una aplicación Full Stack para la gestión eficiente de proveedores, desarrollada como prueba técnica. Permite registrar, buscar, editar y eliminar proveedores, almacenando los datos en una base de datos PostgreSQL. Su diseño es responsivo y amigable, con validaciones de entrada y confirmaciones de acciones críticas.
 
+> 📌 **Nota:** El usuario y contraseña para prueba:
+> - *correo/usuario*: admin@kratt.com.gt
+> - *contraseña*: admin123
+
 ## 🔍 Funcionalidades
 
 - Ver listado de proveedores
@@ -50,7 +54,7 @@ git clone https://github.com/Fer1605/PRUEBA-JUNIOR-KRATT.git
 5. Pulsa en **Restore** y espera la confirmación exitosa.
 6. Repite el proceso de restauración, esta vez seleccionando el archivo `kratt_admins.sql`.
 
-> 📌 **Nota:**
+> 📌 **Notas:**
 > - El archivo `kratt_providers.sql` contiene una tabla `providers` precargada con proveedores de ejemplo.
 > - El archivo `kratt_admins.sql` contiene la tabla `admins`, la cual es necesaria para poder iniciar sesión en la aplicación.
 > - Ambos archivos están incluidos en el repositorio y deben restaurarse en la misma base de datos `kratt_db`.

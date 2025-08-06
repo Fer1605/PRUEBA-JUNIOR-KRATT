@@ -6,16 +6,6 @@ Este proyecto es una aplicación Full Stack para la gestión eficiente de provee
 > - *correo/usuario*: admin@kratt.com.gt
 > - *contraseña*: admin123
 
-## ⚙️ Stack utilizado
-
-- **Frontend**: React + Vite  
-- **Backend**: Node.js + Express  
-- **Base de datos**: PostgreSQL  
-- **Autenticación**: JWT + bcrypt  
-- **Conector**: node-postgres (`pg`)  
-- **Herramientas**: pgAdmin, Git, GitHub  
-- **Estilos**: CSS personalizado  
-
 ---
 
 ## 🔍 Funcionalidades
@@ -27,12 +17,14 @@ Este proyecto es una aplicación Full Stack para la gestión eficiente de provee
 - Eliminar proveedores con confirmación visual
 - Validaciones inteligentes en formularios (correo, NIT/RTU, etc.)
 
-## 🧹 Tecnologías Utilizadas
+## 🧹 Tecnologías Utilizadas (Stack)
 
 - **Frontend:** React + Vite + CSS personalizado
 - **Backend:** Node.js + Express
 - **Base de datos:** PostgreSQL (pgAdmin)
-- **Autenticación:** JSON Web Token (JWT)
+- **Autenticación:** JSON Web Token (JWT) + bcrypt
+- **Conector**: node-postgres (`pg`)  
+- **Herramientas**: pgAdmin, Git, GitHub
 
 ---
 

@@ -2,9 +2,21 @@
 
 Este proyecto es una aplicación Full Stack para la gestión eficiente de proveedores, desarrollada como prueba técnica. Permite registrar, buscar, editar y eliminar proveedores, almacenando los datos en una base de datos PostgreSQL. Su diseño es responsivo y amigable, con validaciones de entrada y confirmaciones de acciones críticas.
 
-> 📌 **Nota:** El usuario y contraseña para prueba:
+> 📌 **Nota:** Este es el usuario y contraseña para prueba:
 > - *correo/usuario*: admin@kratt.com.gt
 > - *contraseña*: admin123
+
+## ⚙️ Stack utilizado
+
+- **Frontend**: React + Vite  
+- **Backend**: Node.js + Express  
+- **Base de datos**: PostgreSQL  
+- **Autenticación**: JWT + bcrypt  
+- **Conector**: node-postgres (`pg`)  
+- **Herramientas**: pgAdmin, Git, GitHub  
+- **Estilos**: CSS personalizado  
+
+---
 
 ## 🔍 Funcionalidades
 

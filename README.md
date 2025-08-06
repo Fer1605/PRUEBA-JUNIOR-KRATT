@@ -41,7 +41,7 @@ Asegúrate de tener instalados:
 
 ---
 
-### 🩱 2. Clonar el Repositorio
+### 🤝 2. Clonar el Repositorio
 Puedes utilizar git clone o bien hacer uso de la opción clonar repositorio remoto en VSCode.
 ```bash
 git clone https://github.com/Fer1605/PRUEBA-JUNIOR-KRATT.git
@@ -111,12 +111,6 @@ El frontend estará disponible por defecto en `http://localhost:5173`
 1. Abre la app en tu navegador (`http://localhost:5173`).
 2. Inicia sesión.
 3. Interactúa con el panel para gestionar tus proveedores.
-
----
-
-## 🤝 Contribuciones
-
-Este proyecto fue desarrollado por **Fer Santizo** como prueba técnica para **Kratt**.
 
 ---
 

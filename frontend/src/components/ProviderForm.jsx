@@ -36,7 +36,7 @@ const ProviderForm = ({ providerToEdit, onSuccess, onCancel }) => {
     e.preventDefault();
 
     if (!formData.email.includes('@')) {
-      return; // la validación HTML de tipo email ya maneja esto
+      return; // Validación simple de email
     }
 
     if (!/\d/.test(formData.nit_or_rtu)) {
